@@ -13,7 +13,7 @@ namespace D03
         }
         static int FindFirstBiggest(int input) 
         {
-            int m = 11;
+            int m = 21;
             int[,] mat = new int[m, m];
             mat[m / 2, m / 2] = 1;
             int currI = m / 2;
