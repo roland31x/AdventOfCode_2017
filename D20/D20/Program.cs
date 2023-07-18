@@ -134,7 +134,7 @@ namespace D20
         }
         static decimal Dist(int[] vector3d)
         {
-            return Math.Abs(vector3d[0]) + Math.Abs(vector3d[1])  + Math.Abs( vector3d[2]);
+            return Math.Abs(vector3d[0]) + Math.Abs(vector3d[1]) + Math.Abs(vector3d[2]); // manhattan
         }
 
         public int[] p;
