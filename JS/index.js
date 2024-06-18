@@ -1,0 +1,1 @@
+console.log("Hello, World! This is the 2017 repository for advent of code problems, done in javascript. Execute the javascripts using nodejs!")
